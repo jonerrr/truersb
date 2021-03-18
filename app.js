@@ -38,4 +38,4 @@ client.on("message", function (message) {
   }
 });
 
-client.login("NzgxNTk5NTYyMzg4NDcxODE5.YE-k3A.zw1E02oK4s4GgosIEkrgrLYITf0");
+client.login("troll");
